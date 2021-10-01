@@ -79,7 +79,7 @@ Most notably:
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
 - [droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code)
 
-## 🧘 1. The Bare Minimum
+## 🧘 1. The Bare Minimum.
 
 ### 1.1 Recognize when the computer is smarter than you
 
